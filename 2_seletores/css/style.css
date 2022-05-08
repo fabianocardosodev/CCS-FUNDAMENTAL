@@ -1,4 +1,32 @@
+/*tag*/
+
 h1 {
     color: red;
     font-size: 60px;
+}
+
+
+/*classe*/
+
+.paragrafo {
+    color: green;
+    background-color: #000;
+}
+
+
+/*id*/
+
+#segundo-título {
+    color: purple;
+}
+
+
+/*seletor composto - classe pai e filho*/
+
+p {
+    color: blue;
+}
+
+.box .paragrafo-box {
+    color: red;
 }
