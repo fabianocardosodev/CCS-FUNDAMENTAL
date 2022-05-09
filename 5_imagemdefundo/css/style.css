@@ -1,0 +1,11 @@
+#background {
+    background-image: url("../img/pense.jpg");
+    background-size: cover;
+    height: 600px;
+    width: 900px;
+}
+
+#background h2 {
+    color: #fff;
+    text-align: center;
+}
