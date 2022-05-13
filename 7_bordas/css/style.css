@@ -1,0 +1,17 @@
+#primeiro-titulo {
+    border: 5px solid #235487;
+}
+
+
+/*tipos de bordas dotted,double,dashed*/
+
+#segundo-título {
+    border: 3px dotted red;
+}
+
+.paragrafo {
+    border-top: 5px solid blue;
+    border-left: 2px solid gold;
+    border-right: 10px solid purple;
+    border-bottom: 3px dotted red;
+}
