@@ -1,0 +1,16 @@
+#background,
+#primeiro-titulo {
+    display: inline-block;
+    width: 100px;
+}
+
+span {
+    display: block;
+}
+
+
+/*sumir texto do html*/
+
+h3 {
+    display: none;
+}
