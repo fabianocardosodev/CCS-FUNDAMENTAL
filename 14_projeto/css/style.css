@@ -1,3 +1,29 @@
+/* reset */
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: Helvetica;
+}
+
+
+/* cabecalho */
+
+h1,
+p {
+    text-align: center;
+}
+
 h1 {
-    color: red;
+    margin-top: 40px;
+    margin-bottom: 70px;
+    color: #4a87e8
+}
+
+
+/* Galeria */
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
 }
